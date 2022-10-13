@@ -4,11 +4,11 @@
         <genre> "Thriller" </genre>
         <Year> "2021" </Year>
         <country> "Italy" </country>
+    </movie>
     <movie id="2">
         <name> "Spectre" </name>
         <genre> "Action" </genre>
         <Year> "2015" </Year>
         <country> "Austria" </country>
-    </movie>
     </movie>
 </movies>
